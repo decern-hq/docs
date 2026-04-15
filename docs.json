@@ -75,7 +75,7 @@
       "anchors": [
         {
           "anchor": "Website",
-          "href": "https://decern.com",
+          "href": "https://getdecern.com",
           "icon": "globe"
         }
       ]
@@ -89,13 +89,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@decern.com"
+        "href": "mailto:support@getdecern.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Get Early Access",
-      "href": "https://decern.com"
+      "href": "https://getdecern.com"
     }
   },
   "contextual": {
